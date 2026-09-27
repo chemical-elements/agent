@@ -2,6 +2,8 @@ module agent
 
 go 1.25.0
 
+toolchain go1.27.1
+
 require (
 	github.com/gogo/protobuf v1.3.2
 	github.com/gorilla/websocket v1.5.0
